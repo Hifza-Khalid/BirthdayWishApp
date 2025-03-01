@@ -1,45 +1,29 @@
-<<<<<<< HEAD
-# 🎂 BirthdayWishApp 🎉  
-
-### **Make birthdays extra special with heartfelt wishes and delightful animations!** 🎈🎊  
+### 🎂 **BirthdayWishApp** 🎉  
+Make birthdays extra special with heartfelt wishes and delightful animations! 🎈🎊  
 
 **BirthdayWishApp** is a beautifully designed Flutter app that lets you send personalized birthday wishes with stunning visuals and animations. 🎁🥳 Whether it's a surprise gift, heartfelt message, or a celebratory animation, this app ensures that every birthday feels memorable!  
 
 ---
 
-## 📸 Screenshots  
+## 📸 **Screenshots**  
 
-Take a sneak peek at **BirthdayWishApp**! 📷✨  
-
-### 🎁 Gift Screen  
-An interactive surprise gift screen filled with excitement! 🎀  
-![Gift Screen](assets/screenshots/gift_screen.jpeg)  
-
-### 🏠 Home Screen  
-A welcoming home screen setting the perfect birthday mood! 🎉  
-![Home Screen](assets/screenshots/home_screen.jpeg)  
-
-### 🎆 Splash Screen  
-A visually appealing splash screen to start the celebration! ✨  
-![Splash Screen](assets/screenshots/splash_screen.jpeg)  
-
-### 💌 Wish Screen  
-A dedicated wish screen to send beautiful birthday messages! ❤️  
-![Wish Screen](assets/screenshots/wish_screen.jpeg)  
+| ![Gift Screen](assets/screenshots/gift_screen.jpeg) | ![Home Screen](assets/screenshots/home_screen.jpeg) | ![Splash Screen](assets/screenshots/splash_screen.jpeg) | ![Wish Screen](assets/screenshots/wish_screen.jpeg) |  
+|:---------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------:|  
+| **Gift Screen** 🎁 | **Home Screen** 🏠 | **Splash Screen** 🎆 | **Wish Screen** 💌 |  
 
 ---
 
-## ✨ Features  
+## ✨ **Features**  
 
-🎈 **Elegant Birthday UI** – A festive and user-friendly interface  
-🎊 **Animated Wishes** – Engaging animations for an interactive experience  
-🎁 **Surprise Gift Effects** – Send virtual surprises for a special touch  
-🌟 **Customizable Themes** – Choose different styles for a unique experience  
-📱 **Seamless Navigation** – Smooth transitions and intuitive controls  
+✅ **Elegant Birthday UI** – A festive and user-friendly interface  
+✅ **Animated Wishes** – Engaging animations for an interactive experience  
+✅ **Surprise Gift Effects** – Send virtual surprises for a special touch  
+✅ **Customizable Themes** – Choose different styles for a unique experience  
+✅ **Seamless Navigation** – Smooth transitions and intuitive controls  
 
 ---
 
-## 📂 Folder Structure  
+## 📂 **Folder Structure**  
 
 This project follows a clean and organized structure:  
 
@@ -56,7 +40,7 @@ BirthdayWishApp/
 │   ├── gift_box.jpeg              # Gift box 🎁
 │   ├── heart.png                  # Heart icon ❤️
 │   ├── wallpaper.png              # Background wallpaper 🖼️
-|   ├── apk_extractor_icon.jpeg    #app icon🎯
+│   ├── apk_extractor_icon.jpeg    # App icon 🎯
 │
 │── lib/                           # Main application code
 │   ├── gift_screen.dart           # Gift screen UI 🎁
@@ -74,7 +58,7 @@ BirthdayWishApp/
 
 ---
 
-## 🚀 Getting Started  
+## 🚀 **Getting Started**  
 
 Follow these steps to **install and run BirthdayWishApp**:  
 
@@ -96,7 +80,7 @@ flutter run
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ **Tech Stack**  
 
 - **Flutter** 🦋 – Cross-platform development framework  
 - **Dart** 🎯 – Optimized programming language for Flutter  
@@ -104,16 +88,16 @@ flutter run
 
 ---
 
-## 📧 Contact  
+## 📧 **Contact**  
 
 Have any questions or suggestions? Feel free to reach out! 📩  
 
-💻 **Developer:** Hifza Khalid
+💻 **Developer:** Hifza Khalid  
 📧 **Email:** hifzaofpk@gmail.com  
 
 ---
 
-## 💡 Tip: Share the App as an APK! 📤  
+## 💡 **Tip: Share the App as an APK!** 📤  
 
 Want to share the **BirthdayWishApp** with friends and family? 🎂🎊  
 You can send it as an **APK file**! Here’s how:  
@@ -127,21 +111,3 @@ You can send it as an **APK file**! Here’s how:
 ---
 
 🎂 **Celebrate every birthday with joy, surprises, and love!** 🎊🎈  
-=======
-# birthday
-
-Happy Birthday
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 7b4509c (birthday wish app)
